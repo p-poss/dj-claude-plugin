@@ -1,0 +1,13 @@
+{
+  "name": "dj-claude",
+  "version": "0.1.18",
+  "description": "Adds live music and multi-agent jam band capabilities to Claude Code. Slash commands and MCP tools for setting vibes, building layered jam sessions, and orchestrating full bands. Agents connect over HTTP to collaborate on music in real-time. No API key or browser required.",
+  "author": {
+    "name": "p-poss",
+    "url": "https://github.com/p-poss"
+  },
+  "homepage": "https://github.com/p-poss/dj-claude-plugin",
+  "repository": "https://github.com/p-poss/dj-claude-plugin",
+  "license": "MIT",
+  "keywords": ["music", "audio", "strudel", "dj", "jam", "live-coding", "multi-agent", "conductor"]
+}

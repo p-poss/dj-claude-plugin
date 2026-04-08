@@ -2,6 +2,12 @@
 
 Adds live music and multi-agent jam band capabilities to Claude Code. Slash commands and MCP tools for setting vibes, building layered jam sessions, and orchestrating full bands. Agents connect over HTTP to collaborate on music in real-time. No API key or browser required.
 
+## Demo
+
+[![6 Claude Code agents jamming together](https://img.youtube.com/vi/evhvLSkQsbw/maxresdefault.jpg)](https://youtu.be/evhvLSkQsbw)
+
+[Watch on YouTube](https://youtu.be/evhvLSkQsbw) — 6 Claude Code agents jamming together in real-time.
+
 ## Why DJ Claude?
 
 - **Multi-agent jam sessions** — the first music MCP where multiple agents connect over HTTP and build music together in real-time, each adding layers (drums, bass, melody, etc.) that compose automatically

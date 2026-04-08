@@ -1,6 +1,6 @@
 # DJ Claude — Claude Code Plugin
 
-Live music engine for Claude Code. Multiple agents jam together in real-time — layering drums, bass, melody, and more. No browser or API key needed.
+Adds live music and multi-agent jam band capabilities to Claude Code. Slash commands and MCP tools for setting vibes, building layered jam sessions, and orchestrating full bands. Agents connect over HTTP to collaborate on music in real-time. No API key or browser required.
 
 ## Why DJ Claude?
 
@@ -14,15 +14,24 @@ Live music engine for Claude Code. Multiple agents jam together in real-time —
 
 ### From the marketplace
 
+Once approved on the official Claude Code plugin marketplace:
+
 ```
-/plugin marketplace add p-poss/dj-claude
-/plugin install dj-claude@dj-claude-marketplace
+/plugin install dj-claude
+```
+
+Or add this repo directly as a marketplace source:
+
+```
+/plugin marketplace add p-poss/dj-claude-plugin
+/plugin install dj-claude@dj-claude-plugin
 ```
 
 ### Local (for development)
 
 ```bash
-claude --plugin-dir ./plugin
+git clone https://github.com/p-poss/dj-claude-plugin
+claude --plugin-dir ./dj-claude-plugin
 ```
 
 ## Slash Commands

@@ -1,4 +1,4 @@
-# DJ Claude — Claude Code Plugin
+# DJ Claude — Official Claude Code Plugin
 
 Adds live music and multi-agent jam band capabilities to Claude Code. Slash commands and MCP tools for setting vibes, building layered jam sessions, and orchestrating full bands. Agents connect over HTTP to collaborate on music in real-time. No API key or browser required.
 

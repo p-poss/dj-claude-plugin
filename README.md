@@ -115,3 +115,9 @@ By default, Claude Code prompts for permission on every MCP tool call. To let DJ
 ```
 
 This auto-allows all music tools while still prompting for everything else.
+
+## License
+
+[GNU AGPL-3.0-or-later](LICENSE)
+
+DJ Claude makes all of its music with [Strudel](https://strudel.cc) — the JavaScript live-coding environment, a port of [TidalCycles](https://tidalcycles.org) by Alex McLean and contributors — which is licensed under the AGPL-3.0. Every tool in this plugin generates and plays Strudel patterns, so DJ Claude is distributed under the same AGPL-3.0 license. Huge thanks to the Strudel and TidalCycles communities for the work this is built on.
